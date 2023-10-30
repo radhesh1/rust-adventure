@@ -118,6 +118,13 @@ impl Adventure {
 }
 
 fn main() {
+    let horse = r"
+                   _____,,;;;`; 
+                ,~(  )  , )~~\|  
+                ' / / --`--,     
+                 /  \    | '  
+ ";
+    println!("{}", horse);
     let mut adventure = Adventure::new();
 
     loop {
