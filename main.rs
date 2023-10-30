@@ -122,7 +122,7 @@ fn main() {
                    _____,,;;;`; 
                 ,~(  )  , )~~\|  
                 ' / / --`--,     
-                 /  \    | '  
+      radhesh1   /  \    | '  
  ";
     println!("{}", horse);
     let mut adventure = Adventure::new();
